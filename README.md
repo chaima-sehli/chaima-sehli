@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chaima-sehli
+- 👀 I’m interested in learning new skills 
+- 🌱 I’m currently learning HTML, JS , CSS
+- 💞️ I’m looking to collaborate on many project in order to improve myself 
+- 📫 You can reach me on chaimasehli21@gmail.com
